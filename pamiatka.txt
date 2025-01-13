@@ -1,0 +1,19 @@
+1) Create
+python -m venv venv
+
+2) activate
+
+3) pip install -r ./requirements.txt
+
+
+4) Create main.py
+
+5) uvicorn main:app --reload
+
+
+
+
+6) create Dockerfile
+7) consol
+ pip freeze > requirements.txt
+
